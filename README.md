@@ -1,5 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-Recruta&count_private=true&show_icons=true&theme=merko&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-Recruta&theme=merko&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-Recruta&count_private=true&show_icons=true&theme=merko&include_all_commits=true&custom_title=Stats%20do%20Jão)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-Recruta&theme=dark&layout=compact&custom_title=Minhas%20linguagens%20mais%20usadas)
 
 # Hello, Dev!
 
