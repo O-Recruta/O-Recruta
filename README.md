@@ -1,3 +1,6 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-Recruta&count_private=true)
+
+
 # Hello, Dev!
 
 Não sei o que lhe traz ao meu perfil, mas já que está aqui, bem-vindo!
@@ -39,6 +42,7 @@ SIM! Depois de um tempo longo, descobri um mini projeto que eu mesmo queria faze
 Atualmente curso Ciências da computação no Instituto de Ensino Superior de Brasília (IESB). É oficialmente meu primeiro semestre, mas já carrego uns conhecimentos do meu antigo curso de Engenharia da Computação.
 
 Estou também estagiando na NTTData como desenvolvedor mobile de iOS. Eu sinceramente sou muito grato a oportunidade e já aprendi ***BASTANTE*** com meus colegas e encarregados.
+
 
 
 <!--
