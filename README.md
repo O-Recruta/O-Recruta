@@ -43,9 +43,7 @@ SIM! Depois de um tempo longo, descobri um mini projeto que eu mesmo queria faze
 
 Atualmente curso Ciências da computação no Instituto de Ensino Superior de Brasília (IESB). É oficialmente meu primeiro semestre, mas já carrego uns conhecimentos do meu antigo curso de Engenharia da Computação.
 
-Estou também estagiando na NTTData como desenvolvedor mobile de iOS. Eu sinceramente sou muito grato a oportunidade e já aprendi ***BASTANTE*** com meus colegas e encarregados.
-
-
+Eu sou muito grato pelos estágios em que já participei, na área de desenvolvimento. Aprendi ***BASTANTE*** com meus colegas e encarregados e espero ter uma outra oportunidade de trabalhar em uma empresa acolhedora novamente
 
 <!--
 **O-Recruta/O-Recruta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
